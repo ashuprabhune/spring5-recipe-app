@@ -1,4 +1,4 @@
-package ashish.springframework.controllers;
+package ashish.springframework.spring5recipeapp.controllers;
 
 
 import org.springframework.stereotype.Controller;

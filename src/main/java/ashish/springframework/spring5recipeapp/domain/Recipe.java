@@ -1,4 +1,4 @@
-package ashish.springframework.domain;
+package ashish.springframework.spring5recipeapp.domain;
 
 import javax.persistence.*;
 import java.util.Set;
